@@ -1,6 +1,6 @@
 package com.mycompany.sistemaeli;
 
-public class SistemaELI {
+public class MainPractica1 {
     public static void main(String[] args) {
 
         CentroControl control = new CentroControl();
