@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 
 public class GestionCRUD {
     private ArrayList<Vehiculo> flota;
-
+    
     public GestionCRUD() {
         this.flota = new ArrayList<>();
     }
